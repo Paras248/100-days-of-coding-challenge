@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class CharacterVowelOrConsonant {
     public static boolean isVowel(char ch){
