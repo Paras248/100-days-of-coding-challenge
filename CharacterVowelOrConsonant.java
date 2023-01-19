@@ -1,3 +1,8 @@
+/*
+ * Day 1 coding Statement : Write a program to identify if the character is a vowel or consonant.
+*/
+
+import java.util.Scanner;
 
 public class CharacterVowelOrConsonant {
     public static boolean isVowel(char ch){
