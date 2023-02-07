@@ -20,3 +20,4 @@ This repository will contain solution for 100-days-of-coding-challenge
 -   Day 16 coding Statement : Write a program to identify if the number is Perfect number or not
 -   Day 17 coding Statement : Write a program to find the Factors of a number
 -   Day 18 coding Statement : Write a program to Add two fractions
+-   Day 19 coding Statement : Write a program to identify if the number is Armstrong number or not
