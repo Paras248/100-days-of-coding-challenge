@@ -17,3 +17,4 @@ This repository will contain solution for 100-days-of-coding-challenge
 -   Day 13 coding Statement: Write a program to find Sum of N natural numbers.
 -   Day 14 coding Statement : Write a program to reverse a given number.
 -   Day 15 coding Statement : Write a program to identify if the number is Strong number or not
+-   Day 16 coding Statement : Write a program to identify if the number is Perfect number or not
