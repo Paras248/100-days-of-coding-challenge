@@ -22,3 +22,4 @@ This repository will contain solution for 100-days-of-coding-challenge
 -   Day 18 coding Statement : Write a program to Add two fractions
 -   Day 19 coding Statement : Write a program to identify if the number is Armstrong number or not
 -   Day 20 coding Statement : Write a program to identify if the number is Prime number or not.
+-   Day 21 coding Statement : Write a program to identify if the number is Palindrome or not
