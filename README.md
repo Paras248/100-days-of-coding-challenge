@@ -24,3 +24,4 @@ This repository will contain solution for 100-days-of-coding-challenge
 -   Day 20 coding Statement : Write a program to identify if the number is Prime number or not.
 -   Day 21 coding Statement : Write a program to identify if the number is Palindrome or not
 -   Day 22 coding Statement : Write a program to express a number as a sum of two prime numbers
+-   Day 23 coding Statement : Write a program to Replace all 0’s with 1 in a given integer
