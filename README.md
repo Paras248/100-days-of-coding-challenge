@@ -1,6 +1,6 @@
 # 100-days-of-coding-challenge
 
-This repository will contain solution for 100-days-of-coding-challenge
+This repository contain solution for 100-days-of-coding-challenge
 
 -   Day 1 coding Statement : Write a program to identify if the character is a vowel or consonant.
 -   Day 2 coding Statement : Write a program to identify if the character is an alphabet or not.
