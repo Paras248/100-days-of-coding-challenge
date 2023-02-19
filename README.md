@@ -27,3 +27,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 23 coding Statement : Write a program to Replace all 0’s with 1 in a given integer
 -   Day 24 coding Statement : Write a program to print Pyramid pattern using stars
 -   Day 25 coding Statement : Write a program to find Area of a circle
+-   Day 26 coding Statement : Write a program to calculate Maximum number of handshakes
