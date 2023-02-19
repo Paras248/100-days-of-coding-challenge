@@ -26,3 +26,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 22 coding Statement : Write a program to express a number as a sum of two prime numbers
 -   Day 23 coding Statement : Write a program to Replace all 0’s with 1 in a given integer
 -   Day 24 coding Statement : Write a program to print Pyramid pattern using stars
+-   Day 25 coding Statement : Write a program to find Area of a circle
