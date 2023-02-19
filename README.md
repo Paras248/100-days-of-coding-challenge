@@ -28,3 +28,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 24 coding Statement : Write a program to print Pyramid pattern using stars
 -   Day 25 coding Statement : Write a program to find Area of a circle
 -   Day 26 coding Statement : Write a program to calculate Maximum number of handshakes
+-   Day 27 coding Statement : Write a program to find the double of the given number without using arithmetic operator
