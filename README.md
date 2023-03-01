@@ -34,3 +34,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 30 coding Statement : Write a Program to print Length of the string without using strlen() function
 -   Day 31 coding Statement : Write a Program to Toggle each character in a string
 -   Day 32 coding Statement : Write a Program to Remove vowels from a string
+-   Day 33 coding Statement : Write a Program to check if String is a palindrome or not
