@@ -37,3 +37,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 33 coding Statement : Write a Program to check if String is a palindrome or not
 -   Day 34 coding Statement : Write a Program to Remove brackets from an algebraic expression
 -   Day 35 coding Statement : Write a Program to Count the sum of numbers in a string
+-   Day 36 coding Statement : Write a Program to Capitalize the first and last letter of each word of a string
