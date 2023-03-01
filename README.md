@@ -31,3 +31,5 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 27 coding Statement : Write a program to find the double of the given number without using arithmetic operator
 -   Day 28 coding Statement : Write a Program to reverse a string.
 -   Day 29 coding Statement : Write a Program to concatenate a string.
+-   Day 30 coding Statement : Write a Program to print Length of the string without using strlen() function
+-   Day 31 coding Statement : Write a Program to Toggle each character in a string
