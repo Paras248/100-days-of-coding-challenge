@@ -36,3 +36,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 32 coding Statement : Write a Program to Remove vowels from a string
 -   Day 33 coding Statement : Write a Program to check if String is a palindrome or not
 -   Day 34 coding Statement : Write a Program to Remove brackets from an algebraic expression
+-   Day 35 coding Statement : Write a Program to Count the sum of numbers in a string
