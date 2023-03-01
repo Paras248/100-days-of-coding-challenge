@@ -35,3 +35,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 31 coding Statement : Write a Program to Toggle each character in a string
 -   Day 32 coding Statement : Write a Program to Remove vowels from a string
 -   Day 33 coding Statement : Write a Program to check if String is a palindrome or not
+-   Day 34 coding Statement : Write a Program to Remove brackets from an algebraic expression
