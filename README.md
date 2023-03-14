@@ -43,3 +43,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 39 coding Statement : Write a Program to check if two strings are Anagram or not
 -   Day 40 coding Statement : Write a Program to Replace substring in a string
 -   Day 41 coding Statement : Check if two strings match where one string contains wildcard characters
+-   Day 42 coding Statement : Write Program to check if two arrays are the same or not
