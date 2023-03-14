@@ -46,3 +46,5 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 42 coding Statement : Write Program to check if two arrays are the same or not
 -   Day 43 coding Statement : Write Program to find the array type
 -   Day 44 coding Statement : Write Program to find number of even and odd elements in an array
+-   Day 45 coding Statement : Write Program to find smallest and largest element in an array
+-   Day 46 coding Statement : Write Program to find sum of elements in an array
