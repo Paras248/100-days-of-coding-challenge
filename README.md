@@ -44,3 +44,5 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 40 coding Statement : Write a Program to Replace substring in a string
 -   Day 41 coding Statement : Check if two strings match where one string contains wildcard characters
 -   Day 42 coding Statement : Write Program to check if two arrays are the same or not
+-   Day 43 coding Statement : Write Program to find the array type
+-   Day 44 coding Statement : Write Program to find number of even and odd elements in an array
