@@ -41,3 +41,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 37 coding Statement : Write a Program to calculate the Frequency of characters in a string
 -   Day 38 coding Statement : Write a Program to print Non-repeating characters in a string
 -   Day 39 coding Statement : Write a Program to check if two strings are Anagram or not
+-   Day 40 coding Statement : Write a Program to Replace substring in a string
