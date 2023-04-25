@@ -53,3 +53,4 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 49 coding Statement : Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the minimum scalar product (Dot product) of 2 vectors.
 -   Day 50 coding Statement : Given an integer array of size N. Write Program to find sum of positive square elements in the array.
 -   Day 51 coding Statement : Given an integer array of size N, write a program to sort the array;
+-   Day 52 coding Statement : Given an integer array of size N, write a program to reverse the array;
