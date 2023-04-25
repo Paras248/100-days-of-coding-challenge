@@ -48,3 +48,5 @@ This repository contain solution for 100-days-of-coding-challenge
 -   Day 44 coding Statement : Write Program to find number of even and odd elements in an array
 -   Day 45 coding Statement : Write Program to find smallest and largest element in an array
 -   Day 46 coding Statement : Write Program to find sum of elements in an array
+-   Day 47 coding Statement : Write Program to find longest palindrome in an array
+-   Day 48 coding Statement : Write Program to remove duplicate elements in an array
